@@ -23,7 +23,7 @@ The "Universal Language Translator" is an application for translating text from 
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/yourusername/universal-language-translator.git
+   git clone https://github.com/walik7496/lang_translator.git
    ```
 
 2. Make sure you have Python 3.x installed. If not, download it from Python's official website.
